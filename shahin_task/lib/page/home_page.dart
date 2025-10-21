@@ -38,7 +38,7 @@ class _HomePageState extends State<HomePage> {
   ];
   @override
   void initState() {
-    // i make this because in initState you can't make function aysnc
+    // i make this because in initState you can't make this function aysnc
     Future.microtask(() {
       context.read<HomeCubit>().getDataFromFirebase();
     });
