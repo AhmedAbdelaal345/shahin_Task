@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "844681387063",
+    "project_id": "job-task-3b02c",
+    "storage_bucket": "job-task-3b02c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844681387063:android:e0c1561fa01f74618733b2",
+        "android_client_info": {
+          "package_name": "com.example.shahin_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq8JhcabsJiNbHr2f8bEwJ04l9SVV0ki8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
